@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Arion&#39;s Blog</title>
+    <link>http://localhost:1313/music/</link>
+    <description>Recent content in Music on Arion&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>arionminina22@ŋmail.com (Arion Minina)</managingEditor>
+    <webMaster>arionminina22@ŋmail.com (Arion Minina)</webMaster>
+    <copyright>© 2025 Arion Minina</copyright>
+    <lastBuildDate>Tue, 15 Jul 2025 13:30:31 +0200</lastBuildDate><atom:link href="http://localhost:1313/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Let God Sort Em Out</title>
+      <link>http://localhost:1313/music/lgseo/</link>
+      <pubDate>Tue, 15 Jul 2025 13:29:04 +0200</pubDate>
+      <author>arionminina22@ŋmail.com (Arion Minina)</author>
+      <guid>http://localhost:1313/music/lgseo/</guid>
+      <description>Recommendation of the week (probably month) # Title: Let God Sort Em Out # Artists: Clipse &amp;amp; Pharrell Williams # Publisher: Clipse, under exclusive license to Roc Nation Distribution # Length: 40 Minutes # What an album!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/music/lgseo/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
