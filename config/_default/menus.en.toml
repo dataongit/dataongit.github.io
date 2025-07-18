@@ -21,13 +21,13 @@ weight = 20
 pageRef = "about"
 
 [[main]]
-  name = "Music"
+  name = "Music Talk"
   parent = "Blog"
   pageRef = "music"
   weight = 20
 
 [[main]]
-  name = "Tech"
+  name = "Projects & Tech"
   parent = "Blog"
   pageRef = "posts"
   weight = 20

@@ -9,7 +9,17 @@
     <managingEditor>arionminina22@ŋmail.com (Arion Minina)</managingEditor>
     <webMaster>arionminina22@ŋmail.com (Arion Minina)</webMaster>
     <copyright>© 2025 Arion Minina</copyright>
-    <lastBuildDate>Tue, 15 Jul 2025 13:30:31 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jul 2025 12:26:35 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 18 Jul 2025 12:26:35 +0200</pubDate>
+      <author>arionminina22@ŋmail.com (Arion Minina)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I am a bachelor student of TUHH (Technical University of Hamburg) in the field of Computer Science and my interest are in the field of IT.</description>
+      
+    </item>
     
     <item>
       <title>Let God Sort Em Out</title>
